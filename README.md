@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy Inc.
 https://cpkopp12.github.io/run-buddy/
 # Run Buddy
 
